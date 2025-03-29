@@ -1,0 +1,1 @@
+​Developing a simple console-based bank account application involves creating a program that operates through a text-based interface, allowing users to perform basic banking operations such as creating an account, depositing funds, withdrawing funds, and checking balances.
